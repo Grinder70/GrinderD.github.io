@@ -1,6 +1,12 @@
-# jemdoc: menu{MENU}{index.html}, showsource
+# jemdoc: menu{MENU}{index.html}, showsource, addcssfile{css/custom.css}
 = Xiaochi Ding
 {{<div style="height: 30px"></div>
+<link rel="icon" href="pic/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" sizes="180x180" href="pic/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="pic/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="pic/favicon-16x16.png">
+<meta name="description" content="Xiaochi Ding's Academic Homepage">
+<meta name="keywords" content="Xiaochi Ding, Tsinghua University, The University of Hong Kong">
 <div style='position: absolute; top: 15px; right: 250px'>
     <a href="https://www.hku.hk/">
         <img src="pic/HKU.jpg" height="60">
@@ -57,5 +63,5 @@ My research focuses on the optimization of power and energy systems, including t
 
 == Visitors
 {{
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=uyjSuZgAeBIIx1DAu0aG-2A9j6bWo5CVwcbOEnQSL-E"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=uyjSuZgAeBIIx1DAu0aG-2A9j6bWo5CVwcbOEnQSL-E&cl=ffffff&w=200"></script>
 }} 
