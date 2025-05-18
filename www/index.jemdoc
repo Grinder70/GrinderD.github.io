@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{index.html}, showsource
-= Yongheng Wang
+= Xiaochi Ding
 {{<div style="height: 30px"></div>
 <div style='position: absolute; top: 15px; right: 250px'>
     <a href="https://www.hku.hk/">
@@ -22,39 +22,34 @@
 
 Xiaochi Ding | 丁骁驰
 
-Ph.D. Student
+Incoming Ph.D. Student
 
 Department of Electrical and Electronic Engineering
 
 The University of Hong Kong
 
 \[[https://scholar.google.com/citations?user=Jdjizp8AAAAJ&hl=en Google Scholar]\]
-\[[https://www.linkedin.com/in/yongheng-wang-a12793322/?locale=en_US LinkedIn]\]
-\[[https://github.com/HKUYonghengWang GitHub]\]
-\[[static/YonghengWang_CV.pdf Resume]\]
+\[[https://www.linkedin.cn/incareer/in/xiaochi-d-599611276/ LinkedIn]\]
 
 ~~~
 
 ~~~
-I am currently seeking collaborators for my project. Please don't hesitate to reach out if you're interested!
+I am currently seeking collaborators for energy system planning and optimization. Please don't hesitate to reach out if you're interested!
 ~~~
 
 == Research Interests
-My research focuses on the control and optimization of power systems, including the following topics:
-- Distribution network planning, incorporating renewable energy sources and electric vehicles
-- Grid-forming and grid-following, using small-signal stability analysis methods
+My research focuses on the optimization of power and energy systems, including the following research topics:
+- Reliability-oriented planning of offshore wind farm electrical systems, integrating contingency modeling and post-fault network reconfiguration
+- Aggregated scheduling of distributed energy resources in distribution systems, incorporating batteries, EVs, and thermal loads under uncertainty
 
 == Recent News
-- 2024-09-01, Started my Ph.D. program at The University of Hong Kong.
-- 2024-06-24, Graduated from Tsinghua University as an Outstanding Master's Graduate (Top 2%).
-- 2024-06-28, Awarded "Outstanding Thesis" for my master's thesis at Tsinghua University (Top 5%).
-- 2023-10-11, Received the Tsinghua University First Class Scholarship (Top 5%).
-
-== Favorite Quotes
-- "Knowledge is power." — Francis Bacon
-- "A rose by any other name would smell as sweet." — William Shakespeare
+- 2025-05-15, I successfully defended my master’s thesis at Tsinghua University!
+- 2025-04-29, Our collaborativepaper titled "Cost-competitive offshore wind-powered green methanol production for maritime transport decarbonization" is accepted in principle by Nature Communications!
+- 2024-10-11, I received the Tsinghua University First Class Scholarship (Top 5%).
+- 2024-09-14, Our paper titled "Reliability-Based Planning of Cable Layout for Offshore Wind Farm Electrical Collector System Considering Post-Fault Network Reconfiguration" is accepted by IEEE Trans on Sustainable Energy!
+- 2024-07-24, I attended the IEEE PES General Meeting 2024 held in Seattle and delivered an oral presentation of our paper.
+- 2024-07-23, Our collaborative paper titled "A Mathematical Programming Approach to Export Pathway Planning of Distributed Hydrogen Production in Offshore Wind Farm" is accepted by International Journal of Hydrogen Energy!
+- 2024-05-30, Our paper titled "Smart Switch Configuration and Reliability Assessment Method for Electrical Collector Systems in Offshore Wind Farms" is accepted by Journal of Modern Power Systems and Clean Energy!
 
 == Contact
-- Phone: (+852) 9823-1865
-- Email: yongheng@connect.hku.hk, wangyong21@mails.tsinghua.edu.cn
-- Address: Room 801, Chow Yei Ching Building, The University of Hong Kong, Hong Kong SAR.
+- Email: dxc.tbsi@gmail.com, dxc22@mails.tsinghua.edu.cn
