@@ -1,34 +1,10 @@
 # jemdoc: menu{MENU}{projects.html}
 = Projects
 
-*Integrated Planning of Multi-Charging Facilities (MTCF) and Urban Distribution Network*, 2022.9-2024.7
+2024.08 - present, National Natural Science Foundation of China, General Fund, “Optimal Planning for Layout and Electrical Collector System in Deep-sea and Far-offshore Wind Farms”, Leading Student Researcher
 
-National Natural Science Foundation of China (52007123)
+2024.07 - present, Excellent Youth Basic Research Fund of Shenzhen, “Complex Combinatorial Optimization Theory and Applications for Planning and Maintenance of Offshore Wind Farm”, Primary Student Researcher
 
-- Performed a comprehensive literature review on EV charging station planning in urban distribution networks.
-- Proposed a two-step equivalence relaxation method for MTCF and developed a dynamic traffic network model for autonomous EVs.
-- Formulated a stochastic planning model to address EV spatiotemporal uncertainties, analyzing costs across various scenarios, including congested traffic hubs.
+2024.01 - present, Guangdong Basic and Applied Joint Funding for Offshore Wind Power, “Optimal Planning for Offshore Wind Farm’s High-Reliability Electric Collection Systems considering the Microenvironment of Seabed”, Leading Student Researcher
 
-*Research for the Interaction Between Large-scale EVs and Power Grids*, 2021.9-2024.7
-
-China Southern Power Grid Technology Fund (090000KK52210132)
-
-- Drafted research proposals, feasibility studies, technical guidelines, and bid documentation, while analyzing real-world data from various EV types to develop a comprehensive planning model.
-- Provided regular progress updates during monthly meetings.
-
-*Joint Planning of Active Distribution Network (ADN) and EV Charging Stations (EVCS)*, 2021.9-2022.8
-
-National Natural Science Foundation of China (52007123)
-
-- Established an integrated model for ADN and EVCS considering vehicle-to-grid and reactive power support.
-- Decomposed the large-scale MISOCP problem into MILP and MISOCP sub-problems to enhance solution efficiency.
-- Modeled distributed generation resources such as energy storage, photovoltaic systems, capacitor banks, static VAR compensators, and on-load tap changers.
-- Analyzed reactive power support planning results for EVs and multiple distributed generation resources.
-
-*Simulation Analysis of Transient Thermal Effect of Ground Wire-Suspension Clamp System*, 2019.9-2020.6
-
-National Natural Science Foundation of China (51977083)
-
-- Built a three-dimensional electromagnetic-thermal coupling simulation model for a ground wire-suspension clamp system wrapped with aluminum armor tape.
-- Analyzed current density and temperature distribution under power-frequency short-circuit currents.
-- Investigated the influence of different bolt torques on the ground wire’s peak temperature.
+2023.01 - present, Guangdong Basic and Applied Joint Funding for Offshore Wind Power, “Research on High-Reliability Planning for Electric Collection Systems in Offshore Wind Farm with Multiple Substations”, Leading Student Researcher
